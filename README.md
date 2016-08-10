@@ -14,7 +14,10 @@ Add the base type to the "units" list for items that follow SI or
 Add the conversion ratios for items that don't follow SI
 Usage:
 
+<pre>
 $u(1, 'g').as('kg').val(); // converts one gram to kg
+</pre>
+
 You can get the value out with .val(), a string representation using .toString() or the full details via .debug()
 
 # Examples
