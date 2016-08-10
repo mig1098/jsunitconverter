@@ -4,7 +4,7 @@ Simple JS unit conversion lib.
 This is the library I wrote here:
 http://stackoverflow.com/questions/865590/unit-of-measure-conversion-library/3531444#3531444
 
-Just moved into github so it's actually versioned somewhere.
+Just moved into github so it's actually versioned somewhere. The whole library is 2kb unzipped.
 
 # Usage
 
