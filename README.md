@@ -10,8 +10,12 @@ Just moved into github so it's actually versioned somewhere.
 
 This library handles all the SI conversions for grams, bytes, meters and liters, and also I've added ounces and pounds as an example of non-SI units. To add more, you'll need to:
 
-Add the base type to the "units" list for items that follow SI or
+Add the base type to the "units" list for items that follow SI
+
+or
+
 Add the conversion ratios for items that don't follow SI
+
 Usage:
 
 <pre>
